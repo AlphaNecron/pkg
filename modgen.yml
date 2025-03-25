@@ -1,0 +1,12 @@
+host: necron.dev/pkg
+
+modules:
+  - path: /bubble
+    vcs: git
+    repo-url: https://github.com/AlphaNecron/bubble
+  - path: /zed
+    vcs: git
+    repo-url: https://github.com/AlphaNecron/zed
+  - path: /ArcticOJ
+    vcs: git
+    repo-url: https://github.com/ArcticOJ/ArcticOJ
